@@ -56,8 +56,8 @@ The **Muzzzz Backend** is a RESTful API server built with **Node.js**, **Express
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/muzzz-backend.git
-cd muzzz-backend
+git clone https://github.com/TabrezMZ/muzzzz-backend.git
+cd muzzzz-backend
 
 # 2. Install dependencies
 npm install
