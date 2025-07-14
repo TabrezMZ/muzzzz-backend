@@ -63,7 +63,7 @@ cd muzzzz-backend
 npm install
 
 # 3. Setup your environment variables
-cp .env.example .env
+cp .env
 # Edit .env with your credentials
 
 # 4. Run the server
